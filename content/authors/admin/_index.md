@@ -59,7 +59,8 @@ education:
     institution: The University of Tulsa
     icon: ""
     date_start: 2025-08-01
-    date_end: ongoing
+    date_end: 2099-11-15  # or a future date
+    ongoing: true          # HugoBlox supports this
     summary: |
       Currently pursuing a PhD in Cyber Studies in the College of Engineering & Computer Science of the University of Tulsa in Oklahoma (USA).
     # button:
