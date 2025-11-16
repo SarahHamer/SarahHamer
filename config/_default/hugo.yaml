@@ -4,9 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: Hugo Academic CV Theme
+title: Sarah Hamer
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://sarahhamer.github.io/SarahHamer/'
 
 ############################
 ## LANGUAGE
@@ -27,7 +27,7 @@ enableGitInfo: false
 summaryLength: 30
 pagination:
   pagerSize: 10
-enableEmoji: true
+enableEmoji: false
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
