@@ -59,8 +59,8 @@ education:
     institution: The University of Tulsa
     icon: ""
     date_start: 2025-08-01
-    date_end: 2099-11-15  # or a future date
-    ongoing: true          # HugoBlox supports this
+    date_end: 2099-11-15  
+    ongoing: true          
     summary: |
       Currently pursuing a PhD in Cyber Studies in the College of Engineering & Computer Science of the University of Tulsa in Oklahoma (USA).
     # button:
@@ -72,7 +72,7 @@ education:
     date_start: 2022-10-01
     date_end: 2025-07-31
     summary: |
-      GPA: 3.6 (1.4 in a German 1-6 score)
+      GPA: 3.6 (1.4 in a German 1-6 score system)
   - area: BA Sociology
     institution: University of Bremen
     icon: ""
@@ -144,27 +144,20 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
+  - title: Chapman Graduate Scholar Presentation Award
+    # url: https://neurips.cc/
+    date: '2025-10-01'
+    awarder: Graduate School, The University of Tulsa
+    icon: ""
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
+      For the presentation of "Understanding Online Grooming Through LLMs: Stage Detection and Linguistic Patterns" (Hamer et al. 2025) at the 16th EAI International Conference on Digital Forensics & Cyber Crime.
+  - title: Stylus Best in Poetry Award
+    # url: https://www.nsf.gov/
+    date: '2023-04-15'
+    awarder: Issued by Stylus Journal of Art & Writing, The University of Tulsa College of Arts and Sciences
+    icon: ""
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      For the poem "Do robots dream of Stylus2024 common threads submissions?" in the 2024 Stylus issue "Common threads. Weaving Human and Non-Human Worlds".
 ---
 
-Sarah Hamer is a Ph.D. student in Cyber Studies at the University of Tulsa.
+Sarah Hamer is a Ph.D. student in Cyber Studies at the University of Tulsa, Oklahoma. They are specializing in large language models (LLMs), child exploitation detection, and romance scams.
