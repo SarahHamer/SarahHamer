@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. student in Cybersecurity
+role: Ph.D. Student in Cybersecurity
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -56,7 +56,7 @@ interests:
 
 education:
   - area: PhD in Cyber Studies
-    institution: The University of Tulsa
+    institution: The University of Tulsa (USA)
     icon: ""
     date_start: 2025-08-01
     date_end: 2099-11-15  
@@ -74,7 +74,7 @@ education:
     summary: |
       GPA: 3.6 (1.4 in a German 1-6 score system)
   - area: BA Sociology
-    institution: University of Bremen
+    institution: University of Bremen (Germany)
     icon: ""
     date_start: 2018-10-01
     date_end: 2022-09-30
