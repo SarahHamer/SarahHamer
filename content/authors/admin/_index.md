@@ -133,11 +133,11 @@ work:
 #         percent: 70
 #         icon: book-open
 
-# languages:
-#   - name: English
-#     percent: 100
-#   - name: Spanish
-#     percent: 50
+languages:
+  - name: English
+    percent: 100
+  - name: German
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
